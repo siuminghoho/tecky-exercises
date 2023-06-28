@@ -37,7 +37,7 @@ while (true) {
         }
     }
 
-    if (count === 4 && !isWin) {
+    if (count == 4 && !isWin) {
         console.log("Sorry, you lose!");
     }
 

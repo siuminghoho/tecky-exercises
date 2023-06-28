@@ -25,5 +25,5 @@ function rnaTranscription(DNA) {
 }
 
 // Example usage
-var DNA = "GCTAGCT";
+var DNA = "GCTAGC333";
 var RNA = rnaTranscription(DNA);

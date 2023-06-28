@@ -22,15 +22,18 @@
 
 //   a();
 
-function abc() {
-  let a = setTimeout(function () {
-    console.log("Hello World")
-  }, 1500);
+// function abc() {
+//   let a = setTimeout(function () {
+//     console.log("Hello World")
+//   }, 1500);
 
-  return a
-}
+//   return a
+// }
 
-setTimeout(abc, 2000)
+// setTimeout(abc, 2000)
 
 
 //console.log("34")
+
+
+alert("This is the alert message!");
