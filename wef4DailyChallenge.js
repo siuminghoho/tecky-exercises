@@ -147,3 +147,6 @@ function getColorCode2(userInput, colorCode) {
     return result
 }
 console.log(getColorCode2(['Red', 'Blue', 'Green'], bandColorEncoded))
+
+
+

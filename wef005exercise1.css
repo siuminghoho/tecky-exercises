@@ -1,0 +1,59 @@
+.body {
+    background-color: rgb(241, 207, 96);
+    border-top: 20px;
+    border-bottom: 20px;
+}
+
+.acousticIcon {
+    position: fixed;
+    top: 0;
+    left: 0;
+    flex: 1;
+}
+
+
+.bi-facebook {
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+.container{
+    padding-top:10vh;
+
+
+
+}
+/* 
+.row{
+    margin-bottom: 20px;
+
+
+}
+
+#delay{
+
+
+
+}
+
+#delay:hover{
+
+
+
+}
+
+
+
+@keyframes slidein{ */
+
+
+}
+
